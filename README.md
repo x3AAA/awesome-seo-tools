@@ -269,6 +269,8 @@ Boost your local presence and connect with audiences in your community.
  
 - [SEO Gets](https://seogets.com/) - Privacy-focused analytics tool built to replace Google Search Console for Agencies and Affiliates.
 
+- [Convertlyft](https://convertlyft.com) - Website analytics and SEO in one: funnels, visit recordings, Search Console, rankings and a site audit from one tag, plus a ranked list of fixes. Free up to 5,000 visits a month.
+
 ## SEO Browser Extensions
 
 Equip your browser with tools for quick and efficient SEO insights on the go.
